@@ -2,7 +2,6 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Link from 'next/link'
 import Hero2 from '../components/Hero2'
-import Card1 from '../components/Card1'
 import Image from 'next/image'
 import { FaRegCheckCircle } from "react-icons/fa";
 import Footer from '../components/Footer'
