@@ -104,7 +104,7 @@ const page = async () => {
                            <div className='md:w-[650px] md:h-[500px] h-[281px] w-[342px] md:p-16 p-10 font-light bg-[#2A254B]'>
                              <h4 className='md:text-4xl text-2xl text-white font-thin'>It started with a small idea</h4>
                              <br />
-                             <p className='md:text-xl text-sm text-white font-light'>A global brand with local beginnings, our story begain in a small studio in South London in early 2014</p>
+                             <p className='md:text-xl text-sm text-white font-light'>A global brand with local beginningslsquo; our story begain in a small studio in South London in early 2014</p>
                         <br />
                              <button className='md:mt-40 bg-[#F9F9F926;] px-5 py-5 md:pl-8 md:pr-8 pl-16 pr-20 font-extralight text-white'>View Collection</button>
                              </div>
@@ -133,8 +133,8 @@ const page = async () => {
           Join the club and get the benefits
         </h2>
         <p className="text-white mb-6">
-          Sign up for our newsletter and receive exclusive offers on new ranges,
-          sales, pop-up stores, and more.
+          Sign up for our newsletter and receive exclusive offers on new rangeslsquo;
+          saleslsquo; pop-up storeslsquo; and more.
         </p>
         <ul className="flex justify-center space-x-4 mb-6 text-white">
           <li className="flex items-center space-x-1">
