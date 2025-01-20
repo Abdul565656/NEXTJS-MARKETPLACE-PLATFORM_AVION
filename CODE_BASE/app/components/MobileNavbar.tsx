@@ -48,7 +48,7 @@ const MobileNavbar = () => {
         <span>Products</span>
       </Link>
 
-      <Link href="/Cart" className="flex items-center space-x-2 hover:text-blue-500 transition-colors duration-300">
+      <Link href="/carts" className="flex items-center space-x-2 hover:text-blue-500 transition-colors duration-300">
         <FaShoppingCart className="w-6 h-6" />
         <span>Cart</span>
       </Link>
