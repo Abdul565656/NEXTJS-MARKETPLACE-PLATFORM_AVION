@@ -170,7 +170,7 @@ const ProductDetails = ({ params }: { params: { slug: string } }) => {
             <AlertDialog open={showDialog} onOpenChange={setShowDialog}>
               <AlertDialogContent>
                 <AlertDialogHeader>
-                  <AlertDialogTitle>You've added a product!</AlertDialogTitle>
+                  <AlertDialogTitle>You&apos;ve added a product!</AlertDialogTitle>
                   <AlertDialogDescription>
                     {`${product.name} has been added to your cart. Continue shopping or proceed to checkout.`}
                   </AlertDialogDescription>
